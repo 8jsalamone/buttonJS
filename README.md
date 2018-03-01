@@ -12,7 +12,7 @@ Consult the notes we took last week for tips on vocabulary and proper syntax.
 ## Challenge 1
 When you click this button the color of the h3 heading and the p-tag should change to white.  Also to help with the contract of the picture you should change the background color to black.  You will want to perform at least 3 separate queries to complete the overall task.  Consider adding some utility classes to the css file to help.
 ## Challenge 2
-Take it to the next level of user experience; create another class which houses the old default settings and toggle a "daymode" and "nightmode" mode to switch between color settings.
+Take it to the next level of user experience; create another class which houses the old default settings and toggle a "daymode" and "nightmode" mode to switch between color settings.*
 ## Challenge 3
 This challenge represents an internal family Gaussian Diagram...not a Venn Diagram.
 - **gp** stands for grand parent (rgb: #550000)
